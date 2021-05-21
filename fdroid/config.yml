@@ -54,8 +54,8 @@ sdk_path: /usr/lib/android-sdk
 # The same policy is applied to the archive repo, if there is one.
 # repo_maxage: 0
 
-# repo_url: https://MyFirstFDroidRepo.org/fdroid/repo
-# repo_name: My First F-Droid Repo Demo
+repo_url: https://JohannesTuertscher.github.io/fdroid/repo
+repo_name: Johnny's Repo
 # repo_description: >-
 #   This is a repository of apps to be used with F-Droid. Applications
 #   in this repository are either official binaries built by the
