@@ -1,0 +1,134 @@
+{
+  "METADATA_VERSION": 20000,
+  "allow_disabled_algorithms": false,
+  "com.sonnatager.johnnysynctool_1.apk": {
+    "hash": "5576ff5c342ac8829e2880834b27851e84efc0c7b85550491cb591a90fd6e35a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.sonnatager.johnnysynctool.1.png",
+      "480": "com.sonnatager.johnnysynctool.1.png",
+      "320": "com.sonnatager.johnnysynctool.1.png",
+      "240": "com.sonnatager.johnnysynctool.1.png",
+      "160": "com.sonnatager.johnnysynctool.1.png",
+      "0": "com.sonnatager.johnnysynctool.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.sonnatager.johnnysynctool",
+    "versionCode": 1,
+    "name": "Johnny's Ftp Backup Tool",
+    "versionName": "1.0",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "56dce62452564f4d71a0f42f9205b3e8",
+    "signer": "09ae68b63d51a163eae945a94b0702bd6b142487166d6d3679fcd9571454767c",
+    "size": 13155430,
+    "apkName": "com.sonnatager.johnnysynctool_1.apk",
+    "icon": "com.sonnatager.johnnysynctool.1.png",
+    "added": 315554400.0
+  },
+  "com.sonnatager.loyaltycardmanager_1.apk": {
+    "hash": "60159fe7a204b5f0649cddb5e531927334ed530965d3cf6e1123dddcd6f01be1",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.WRITE_SETTINGS",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.sonnatager.loyaltycardmanager.1.png",
+      "480": "com.sonnatager.loyaltycardmanager.1.png",
+      "320": "com.sonnatager.loyaltycardmanager.1.png",
+      "240": "com.sonnatager.loyaltycardmanager.1.png",
+      "160": "com.sonnatager.loyaltycardmanager.1.png",
+      "0": "com.sonnatager.loyaltycardmanager.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.sonnatager.loyaltycardmanager",
+    "versionCode": 1,
+    "name": "Loyalty Card Manager",
+    "versionName": "1.0",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "56dce62452564f4d71a0f42f9205b3e8",
+    "signer": "09ae68b63d51a163eae945a94b0702bd6b142487166d6d3679fcd9571454767c",
+    "size": 16907643,
+    "apkName": "com.sonnatager.loyaltycardmanager_1.apk",
+    "icon": "com.sonnatager.loyaltycardmanager.1.png",
+    "added": 315554400.0
+  }
+}
