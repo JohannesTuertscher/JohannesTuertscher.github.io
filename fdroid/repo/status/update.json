@@ -1,1 +1,1 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--rename-apks","-c"],"disabled":[],"endTimestamp":1622031591021,"failedBuilds":{},"noPackages":["com.sonnatager.johnnysynctool","com.sonnatager.loyaltycardmanager"],"startTimestamp":1622049561000,"subcommand":"update"}
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--rename-apks","-c"],"disabled":[],"endTimestamp":1622129478870,"failedBuilds":{},"noPackages":["com.sonnatager.johnnysynctool","com.sonnatager.loyaltycardmanager"],"startTimestamp":1622147459000,"subcommand":"update"}
